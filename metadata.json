@@ -1,0 +1,8 @@
+{
+  "name": "AI Fluency Showcase",
+  "description": "Demonstrating modern multi-model AI fluency with dissertation abstract summarization, venture one-pager pitch synthesis, and Google Cloud technical architecture sketching powered by Gemini 3.8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
